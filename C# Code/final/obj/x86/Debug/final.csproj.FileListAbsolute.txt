@@ -1,0 +1,17 @@
+C:\Users\eng-kemo\Desktop\projects\final project\final C#\final\final\obj\x86\Debug\final.Form1.resources
+C:\Users\eng-kemo\Desktop\projects\final project\final C#\final\final\obj\x86\Debug\final.Properties.Resources.resources
+C:\Users\eng-kemo\Desktop\projects\final project\final C#\final\final\obj\x86\Debug\final.csproj.GenerateResource.Cache
+C:\Users\eng-kemo\Desktop\projects\final project\final C#\final\final\bin\Debug\final.exe
+C:\Users\eng-kemo\Desktop\projects\final project\final C#\final\final\bin\Debug\final.pdb
+C:\Users\eng-kemo\Desktop\projects\final project\final C#\final\final\obj\x86\Debug\final.exe
+C:\Users\eng-kemo\Desktop\projects\final project\final C#\final\final\obj\x86\Debug\final.pdb
+C:\Users\eng-kemo\Desktop\projects\final project\final C#\final\final\obj\x86\Debug\final.csprojResolveAssemblyReference.cache
+C:\Users\YOUSSEF\Desktop\final project\final C#\final\final\obj\x86\Debug\final.exe
+C:\Users\YOUSSEF\Desktop\final project\final C#\final\final\obj\x86\Debug\final.pdb
+C:\Users\YOUSSEF\Desktop\final project\final C#\final\final\bin\Debug\final.exe
+C:\Users\YOUSSEF\Desktop\final project\final C#\final\final\bin\Debug\final.pdb
+C:\Users\YOUSSEF\Desktop\final project\final C#\final\final\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\YOUSSEF\Desktop\final project\final C#\final\final\obj\x86\Debug\final.Form1.resources
+C:\Users\YOUSSEF\Desktop\final project\final C#\final\final\obj\x86\Debug\final.Properties.Resources.resources
+C:\Users\YOUSSEF\Desktop\final project\final C#\final\final\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\YOUSSEF\Desktop\final project\final C#\final\final\obj\x86\Debug\GenerateResource.write.1.tlog
